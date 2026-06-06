@@ -1,10 +1,9 @@
-# 🔐 Password Strength Analyzer
+ Password Strength Analyzer
 
 A Python-based cybersecurity tool that evaluates password strength using common security standards such as length, character diversity, and complexity requirements. The application provides users with actionable feedback to help create stronger and more secure passwords.
 
----
 
-## 📖 Overview
+ Overview
 
 Weak passwords are one of the most common causes of unauthorized access and security breaches. This project analyzes passwords based on several security criteria and classifies them as:
 
@@ -14,9 +13,8 @@ Weak passwords are one of the most common causes of unauthorized access and secu
 
 The analyzer also provides recommendations for improving password security.
 
----
 
-## ✨ Features
+ Features
 
 * Password length validation
 * Uppercase letter detection
@@ -27,46 +25,7 @@ The analyzer also provides recommendations for improving password security.
 * Security recommendations
 * Simple command-line interface
 
----
-
-## 🛠 Technologies Used
-
-* Python 3.x
-* Regular Expressions (`re` module)
-
----
-
-## 📂 Project Structure
-
-```text
-Password-Strength-Analyzer/
-│
-├── password_strength_analyzer.py
-├── README.md
-│
-└── requirements.txt (optional)
-```
-
----
-
-## ⚙️ Installation
-
-### Clone the Repository
-
-```bash
-git clone https://github.com/your-username/password-strength-analyzer.git
-cd password-strength-analyzer
-```
-
-### Requirements
-
-* Python 3.x installed on your system
-
-No external libraries are required.
-
----
-
-## ▶️ Usage
+ Usage
 
 Run the program using:
 
@@ -88,11 +47,10 @@ Output:
 Password Strength: Strong
 
 Excellent! Your password is secure.
-```
+,,
 
----
 
-## 🔍 Password Evaluation Criteria
+ Password Evaluation Criteria
 
 The analyzer checks for:
 
@@ -106,7 +64,7 @@ The analyzer checks for:
 
 ---
 
-## 📊 Strength Levels
+Strength Levels
 
 | Score Range | Strength |
 | ----------- | -------- |
@@ -116,7 +74,7 @@ The analyzer checks for:
 
 ---
 
-## 💡 Example
+ Example
 
 ### Input
 
@@ -136,7 +94,7 @@ Suggestions:
 
 ---
 
-## 🚀 Future Improvements
+Future Improvements
 
 * Graphical User Interface (Tkinter)
 * Password Strength Meter
@@ -149,7 +107,7 @@ Suggestions:
 
 ---
 
-## 🎯 Learning Outcomes
+ Learning Outcomes
 
 * Understanding password security principles
 * Working with Python Regular Expressions
@@ -158,6 +116,6 @@ Suggestions:
 
 ---
 
-## 📜 License
+ License
 
 This project is intended for educational and learning purposes.
